@@ -1,2 +1,3 @@
 #!/bin/bash
-0-current_working_directory
+pwd
+/root/alx-system_engineering-deveops/0x003-shell_basics/0-current_working_directory
