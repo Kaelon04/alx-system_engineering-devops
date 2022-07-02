@@ -1,2 +1,2 @@
 #!/bin/bash
-echo path is {0..11}
+echo 6
